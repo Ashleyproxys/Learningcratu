@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Prodigy
+    env: docker
+    plan: free
